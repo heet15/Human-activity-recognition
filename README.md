@@ -1,0 +1,2 @@
+# Human-activity-recognition
+It is the multiclassification problem. Here from the data our model can predict weather the person is walking, walking_upstairs , walking_downstairs , laying , sitting or standing. Internally in our mobile phones there is various sensors like accelerometer and gyroscope which helps us to determine the activity of person. So our dataset contains the data of this two sensors and then helps us to predict the activity of individual. 
